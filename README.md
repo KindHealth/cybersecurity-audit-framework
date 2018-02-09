@@ -8,7 +8,9 @@ A secure internet is all of our responsibility. Security should be as transparen
 This work is all source controlled. Make changes, make suggestions, open issues, cite sources. Don't be afraid of breaking things.
 
 ## High-level Outline of framework
-* Education: who, what, why and how of an audit
+* Education: who, what, why and how of an audit.
+Who can provide it (certs of auditors, who can be involved and in what role).
+What it covers (standards used, expectations)
 * Requirements: If this project was a software application, the reqs are the input. How does the framework deal with requirements? How are they categorized, and how does it change the testing? 
 * Agreements: Rules of Engagement, NDA's, SLA, contracts, etc.
 * Testing: The actual auditing
