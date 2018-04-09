@@ -8,7 +8,7 @@ Passive reconnaisance is a form of OSINT to gather information about your target
 
 ![Passive Recon](../resources/passive_recon_map.svg)
 
-You can also download this map from the resources directory [here](resources/passive_recon_map.svg)
+You can also download this map from the resources directory [here](../resources/passive_recon_map.svg).
 
 Following sections will contain a breakdown of each node in the map. These sections will link programs/softwares that help with reconnaissance. 
 
