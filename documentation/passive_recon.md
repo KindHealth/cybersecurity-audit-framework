@@ -6,7 +6,7 @@ This is a simple markdown info on how a passive reconnaissance should be done wh
 
 Passive reconnaisance is a form of OSINT to gather information about your targets. Having a set framework on what tools to use and how they can help is necessary to success in passive reconnaissnace. For this process, we have designed a small map that can be used to understand the process. The map is attached below: 
 
-![Passive Recon](resources/passive_recon_map.svg)
+![Passive Recon](../resources/passive_recon_map.svg)
 
 You can also download this map from the resources directory [here](resources/passive_recon_map.svg)
 
